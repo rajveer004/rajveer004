@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Rahul+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ECC40&width=720&lines=%F0%9F%91%8B+%0A+Hey%2C+there%21%21+I'm+Rajveer+and+Welcome+to+my+Profile%21)](https://git.io/typing-svg)
 
-![MasterHead](https://drive.google.com/uc?export=view&id=1rHg9ZzHpvty_muZF8Z_IaXjSNAYv4Q60)
+<!--![MasterHead](https://drive.google.com/uc?export=view&id=1rHg9ZzHpvty_muZF8Z_IaXjSNAYv4Q60)-->
 
 
 <!-- <div align="center">
@@ -408,23 +408,23 @@
 
 <!--## 🌐 Coding Profile
 <p align="center">
-  <a href="https://leetcode.com/u/Rahul_Samanta82/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
+  <a href="https://leetcode.com/u/RajveeerSingh/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>
 <br/>
 <p align="center">
-  <a href="https://leetcode.com/u/Rahul_Samanta82/">
-  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
+  <a href="https://leetcode.com/u/RajveeerSingh/">
+  <img alt="LeetCode Stat Card" src="https://leetcard.jacoblin.cool/RajveeerSingh?theme=light&ext=heatmap&width=490&font=noto_sans_display"/>
   </a>
 </p>-->
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/Rahul_Samanta82/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/RajveeerSingh/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/RajveeerSingh/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/RajveeerSingh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/RajveeerSingh/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Rahul_Samanta82?theme=light&ext=heatmap&width=490&font=noto_sans_display" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/RajveeerSingh?theme=light&ext=heatmap&width=490&font=noto_sans_display" />  
 </p>
 
 
